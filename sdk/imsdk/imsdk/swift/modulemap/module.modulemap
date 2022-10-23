@@ -1,0 +1,5 @@
+module IMEngine [extern_c] {
+    umbrella header "../../objective-c/header/IMManager.h"
+    export *
+}
+
